@@ -10,6 +10,7 @@
   "author": "sahan",
   "license": "ISC",
   "dependencies": {
+    "@prisma/client": "^6.6.0",
     "body-parser": "^1.20.3",
     "express": "^4.21.2",
     "mysql2": "^3.14.0"
